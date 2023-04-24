@@ -1,2 +1,2 @@
 # projeto-novo
-https://cherry0vivi.github.io/projeto-novo/projeto-do-zero/index.html
+https://cherry0vivi.github.io/projeto-do-zero/projeto-um/index.html
